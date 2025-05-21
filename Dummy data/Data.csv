@@ -1,0 +1,6 @@
+Id	InvoiceNo	CustomerId	ContactNo	Rate	Review	CreatedOn	CreatedBy	DeletedBy	DeletedOn	FeedbackId	UpdatedBy	UpdatedOn	FeedbackCode	IsActive	DivisionName	IsRecommended	RateofSatisfyService	RateofServiceProduct	RateofTimeTaken	ReviewAny	AverageScrore	CustomerName	Location	Designation	JobNumber
+14	1	1	1	4	NULL	03:47.7	a	NULL	00:00.0	20600001	 	08:44.2	F20600001	1	AA	0	3	3	4	bad . should improved	3	 BANK	COLOMBO 03	NULL	NULL
+15	1	2	2	4	NULL	05:33.1	b	NULL	00:00.0	20600002	 	07:12.5	F20600002	1	AA	0	4	4	4	No additional comments	4	 LTD	Maharagama	NULL	NULL
+16	1	3	3	4	NULL	06:32.1	c	NULL	00:00.0	20600003	 	05:35.2	F20600003	1	BB	0	4	4	4	good	4	PRODUCTS LTD	COLOMBO 09	NULL	NULL
+17	3	4	4	4	NULL	08:45.0	s	NULL	00:00.0	20600004	 	02:19.3	F20600004	1	CC	0	4	4	4	bad	4	 FINANCE CO. LTD	Kandy	NULL	NULL
+18	2	5	5	4	NULL	10:49.7	d	NULL	00:00.0	20600005	 	00:17.0	F20600005	1	DD	0	4	4	4	neutral but okay	4	 EDUCATION CENTRE LTD	COLOMBO 03	NULL	NULL
