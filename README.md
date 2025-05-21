@@ -140,6 +140,6 @@ Pulls real-time review data from an API and stores it into `Data.csv`, which can
 
 ## 🧑‍💻 Author
 
-**Yamannage Sachith Nimesh**
+**Sachith Yamannage**
 
 Sentiment Analysis | Data Science | SQL Server | Python NLP
