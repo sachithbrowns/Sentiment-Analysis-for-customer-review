@@ -22,6 +22,7 @@ This project performs **end-to-end sentiment analysis** on customer feedback dat
 
 ## 📊 Project Pipeline
 
+![Process Pipeline](https://github.com/sachithbrowns/Sentiment-Analysis-for-customer-review/blob/bea4ba725d418cfaf5ac2dd80a9dbd914190b244/Process%20Pipeline.png?raw=true)
 
 
 ---
@@ -118,12 +119,13 @@ A sample Power BI report is included (`Dashboard PNG.png`) showcasing:
 * Total sentiment distribution
 * Trends over time
 * Customer review patterns
+* Division wise customer expression
 
 ---
 
 ## 🔄 API Ingestion Script
 
-`Sentiment4ApiData.py` pulls real-time review data from an API and stores it into `Data.csv`, which can then be processed via the GUI app.
+Pulls real-time review data from an API and stores it into `Data.csv`, which can then be processed via the GUI app. We used `Sentiment4ApiData.py` For initial establishment of historical data.
 
 ---
 
