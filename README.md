@@ -8,21 +8,22 @@ This project performs **end-to-end sentiment analysis** on customer feedback dat
 
 ```bash
 ├── Dummy data/                # Sample or placeholder dataset
-├── Data.csv                   # Raw dataset for processing
-├── EDA.csv                    # Dataset used for exploratory analysis
+    ├──── Data.csv             # Raw dataset for processing
+    ├──── EDA.csv              # Dataset used for exploratory analysis
 ├── .gitignore                 # Git ignore settings
 ├── Dashboard PNG.png          # BI report screenshot
 ├── EDA.ipynb                  # Exploratory Data Analysis notebook
-├── Sentiment4ApiData.py       # API ingestion script
-├── app.py                     # GUI app for processing and storing data
+├── Sentiment4ApiData.py       # Initial ETL script
+├── app.py                     # GUI app for storing processed data with seniment analysis  to databse from  CSV files of API data
 ├── requirement.txt            # Required Python libraries
 ```
 
 ---
 
+
 ## 📊 Project Pipeline
 
-![Process Pipeline](https://github.com/sachithbrowns/Sentiment-Analysis-for-customer-review/blob/bea4ba725d418cfaf5ac2dd80a9dbd914190b244/Process%20Pipeline.png?raw=true)
+![Process Pipeline](https://github.com/sachithbrowns/Sentiment-Analysis-for-customer-review/blob/ecc6362e5615fbe41bcaea2fbaa83dfe1b63b793/Images/Process%20Pipeline.png?raw=true)
 
 
 ---
@@ -115,6 +116,10 @@ Required libraries include:
 ## 📈 Power BI Dashboard
 
 A sample Power BI report is included (`Dashboard PNG.png`) showcasing:
+
+![Process Pipeline](https://github.com/sachithbrowns/Sentiment-Analysis-for-customer-review/blob/ecc6362e5615fbe41bcaea2fbaa83dfe1b63b793/Images/Dashboard%20PNG.png?raw=true)
+
+
 
 * Total sentiment distribution
 * Trends over time
